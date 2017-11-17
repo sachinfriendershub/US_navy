@@ -1,4 +1,1 @@
-$ cat .gitignore
-*.[oa]
-*~
-*docs/log.php
+*docs/log
